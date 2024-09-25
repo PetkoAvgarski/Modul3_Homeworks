@@ -7,11 +7,13 @@ public class Task01 {
 
         System.out.print("Enter one integer ");
         int a = in.nextInt();
+        System.out.println("The first integer is " + a);
+
         System.out.print("Enter second integer ");
         int b = in.nextInt();
-
-        System.out.println("The first integer is " + a);
         System.out.println("The second integer is " + b);
+
+
 
     }
 }
