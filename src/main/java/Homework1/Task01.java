@@ -13,7 +13,12 @@ public class Task01 {
         int b = in.nextInt();
         System.out.println("The second integer is " + b);
 
-
-
+        System.out.print("Enter third integer ");
+        int c = in.nextInt();
+            if (c > a && c < b) {
+                System.out.println( c + " is between " + a + " and " + b);
+            } else {
+                System.out.println( c + " isn`t between " + a + " and " + b);
+            }
     }
 }
