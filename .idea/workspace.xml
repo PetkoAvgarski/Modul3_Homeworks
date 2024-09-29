@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Upload Task06">
+    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Upload Task04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework1/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework1/Task03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
     &quot;accountId&quot;: &quot;3caefdd6-2a7d-4a8c-953a-a0c43872efc4&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Task01.executor": "Run",
+    "Application.Task03.executor": "Run",
     "Application.Task04.executor": "Run",
     "Application.Task05.executor": "Run",
     "Application.Task06.executor": "Run",
@@ -135,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727386013025</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Upload Task04">
+      <option name="closed" value="true" />
+      <created>1727561561974</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727561561974</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +167,7 @@
     <MESSAGE value="final version of Task01" />
     <MESSAGE value="final version of Task05 and Task07" />
     <MESSAGE value="Upload Task06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Task06" />
+    <MESSAGE value="Upload Task04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Task04" />
   </component>
 </project>
