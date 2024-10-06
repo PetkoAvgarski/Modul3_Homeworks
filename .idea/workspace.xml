@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Upload Task03 / HW2">
+    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Update Task03 / HW2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework2/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework2/Task04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728140787126</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update Task03 / HW2">
+      <option name="closed" value="true" />
+      <created>1728207858393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728207858393</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +222,7 @@
     <MESSAGE value="Upload Task01 / HW2" />
     <MESSAGE value="Upload Task02 / HW2" />
     <MESSAGE value="Upload Task03 / HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Task03 / HW2" />
+    <MESSAGE value="Update Task03 / HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Task03 / HW2" />
   </component>
 </project>
