@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Upload Task04 / HW2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Task05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Upload Task07 / HW2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,26 +44,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Homework2.Task01.executor": "Run",
-    "Application.Homework2.Task05.executor": "Run",
-    "Application.Task01.executor": "Run",
-    "Application.Task02.executor": "Run",
-    "Application.Task03.executor": "Run",
-    "Application.Task04.executor": "Run",
-    "Application.Task05.executor": "Run",
-    "Application.Task06.executor": "Run",
-    "Application.Task07.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Homework2.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2.Task05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task07.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework1.Task01" />
@@ -214,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728246469086</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Upload Task07 / HW2">
+      <option name="closed" value="true" />
+      <created>1728247617466</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728247617466</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +246,7 @@
     <MESSAGE value="Upload Task03 / HW2" />
     <MESSAGE value="Update Task03 / HW2" />
     <MESSAGE value="Upload Task04 / HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload Task04 / HW2" />
+    <MESSAGE value="Upload Task07 / HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Task07 / HW2" />
   </component>
 </project>
