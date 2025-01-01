@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Upload HomeWork 5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework4/ComputerPrices.java" afterDir="false" />
+    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Edited HomeWork 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/CarPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Car.executor": "Run",
+    "Application.CarPerson.executor": "Run",
     "Application.Computer$ComputerPrices.executor": "Run",
     "Application.ComputerPrices.executor": "Run",
     "Application.DemoMain.executor": "Run",
@@ -73,7 +74,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComputerPrices">
+  <component name="RunManager" selected="Application.CarPerson">
+    <configuration name="CarPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework3.CarPerson" />
+      <module name="Modul_3_Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Computer$ComputerPrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework4.Computer$ComputerPrices" />
       <module name="Modul_3_Homeworks" />
@@ -128,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarPerson" />
         <item itemvalue="Application.ComputerPrices" />
         <item itemvalue="Application.Computer$ComputerPrices" />
         <item itemvalue="Application.Task05" />
@@ -296,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735758508603</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Edited HomeWork 4">
+      <option name="closed" value="true" />
+      <created>1735763175681</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735763175681</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +352,7 @@
     <MESSAGE value="Upload HomeWork 3" />
     <MESSAGE value="Upload HomeWork 4" />
     <MESSAGE value="Upload HomeWork 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload HomeWork 5" />
+    <MESSAGE value="Edited HomeWork 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited HomeWork 4" />
   </component>
 </project>
