@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Edited HomeWork 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/CarPerson.java" afterDir="false" />
+    <list default="true" id="784c08aa-59b8-4d2f-8d18-43c024132570" name="Changes" comment="Edited HomeWork 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework6/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,33 +51,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Car.executor": "Run",
-    "Application.CarPerson.executor": "Run",
-    "Application.Computer$ComputerPrices.executor": "Run",
-    "Application.ComputerPrices.executor": "Run",
-    "Application.DemoMain.executor": "Run",
-    "Application.Homework2.Task01.executor": "Run",
-    "Application.Homework2.Task05.executor": "Run",
-    "Application.Task01.executor": "Run",
-    "Application.Task02.executor": "Run",
-    "Application.Task03.executor": "Run",
-    "Application.Task04.executor": "Run",
-    "Application.Task05.executor": "Run",
-    "Application.Task06.executor": "Run",
-    "Application.Task07.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarPerson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Computer$ComputerPrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputerPrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework2.Task05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task07.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CarPerson">
+}</component>
+  <component name="RunManager">
     <configuration name="CarPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework3.CarPerson" />
       <module name="Modul_3_Homeworks" />
@@ -319,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735763175681</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Edited HomeWork 3">
+      <option name="closed" value="true" />
+      <created>1735763843289</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735763843289</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,6 +364,7 @@
     <MESSAGE value="Upload HomeWork 4" />
     <MESSAGE value="Upload HomeWork 5" />
     <MESSAGE value="Edited HomeWork 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited HomeWork 4" />
+    <MESSAGE value="Edited HomeWork 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited HomeWork 3" />
   </component>
 </project>
